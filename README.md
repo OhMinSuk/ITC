@@ -1,6 +1,6 @@
 # ITC (Microsoft Data School 3차 프로젝트)
-> **실시간 데이터 기반 암호화폐 모의투자 & 학습 플랫폼**
-> ![ITC_발표-PPT_1](https://github.com/user-attachments/assets/480c86ba-53e6-4d25-8f60-8813b0bc1db6)
+> 🎬 **소개영상**: [YouTube 링크](https://youtu.be/uMmKo6Ga_MY)
+![ITC_발표-PPT_1](https://github.com/user-attachments/assets/480c86ba-53e6-4d25-8f60-8813b0bc1db6)
 
 ## 📝 프로젝트 소개 (Overview)
 
